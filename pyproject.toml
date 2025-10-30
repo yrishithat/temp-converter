@@ -1,0 +1,8 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "temp-converter"
+version = "0.1.0"
+description = "Simple temperature converter for CI/CD demo"
